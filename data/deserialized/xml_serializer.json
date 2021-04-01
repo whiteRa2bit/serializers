@@ -1,0 +1,423 @@
+{
+    "root": {
+        "PackageID": {
+            "@type": "int",
+            "#text": "1539"
+        },
+        "PersonID": {
+            "@type": "int",
+            "#text": "33"
+        },
+        "Name": {
+            "@type": "str",
+            "#text": "MEGA_GAMER_2222"
+        },
+        "Inventory": {
+            "@type": "dict",
+            "n0": {
+                "@type": "int",
+                "#text": "0"
+            },
+            "n1": {
+                "@type": "int",
+                "#text": "1"
+            },
+            "n2": {
+                "@type": "int",
+                "#text": "2"
+            },
+            "n3": {
+                "@type": "int",
+                "#text": "3"
+            },
+            "n4": {
+                "@type": "int",
+                "#text": "4"
+            },
+            "n5": {
+                "@type": "int",
+                "#text": "5"
+            },
+            "n6": {
+                "@type": "int",
+                "#text": "6"
+            },
+            "n7": {
+                "@type": "int",
+                "#text": "7"
+            },
+            "n8": {
+                "@type": "int",
+                "#text": "8"
+            },
+            "n9": {
+                "@type": "int",
+                "#text": "9"
+            },
+            "n10": {
+                "@type": "int",
+                "#text": "10"
+            },
+            "n11": {
+                "@type": "int",
+                "#text": "11"
+            },
+            "n12": {
+                "@type": "int",
+                "#text": "12"
+            },
+            "n13": {
+                "@type": "int",
+                "#text": "13"
+            },
+            "n14": {
+                "@type": "int",
+                "#text": "14"
+            },
+            "n15": {
+                "@type": "int",
+                "#text": "15"
+            },
+            "n16": {
+                "@type": "int",
+                "#text": "16"
+            },
+            "n17": {
+                "@type": "int",
+                "#text": "17"
+            },
+            "n18": {
+                "@type": "int",
+                "#text": "18"
+            },
+            "n19": {
+                "@type": "int",
+                "#text": "19"
+            },
+            "n20": {
+                "@type": "int",
+                "#text": "20"
+            },
+            "n21": {
+                "@type": "int",
+                "#text": "21"
+            },
+            "n22": {
+                "@type": "int",
+                "#text": "22"
+            },
+            "n23": {
+                "@type": "int",
+                "#text": "23"
+            },
+            "n24": {
+                "@type": "int",
+                "#text": "24"
+            },
+            "n25": {
+                "@type": "int",
+                "#text": "25"
+            },
+            "n26": {
+                "@type": "int",
+                "#text": "26"
+            },
+            "n27": {
+                "@type": "int",
+                "#text": "27"
+            },
+            "n28": {
+                "@type": "int",
+                "#text": "28"
+            },
+            "n29": {
+                "@type": "int",
+                "#text": "29"
+            },
+            "n30": {
+                "@type": "int",
+                "#text": "30"
+            },
+            "n31": {
+                "@type": "int",
+                "#text": "31"
+            },
+            "n32": {
+                "@type": "int",
+                "#text": "32"
+            },
+            "n33": {
+                "@type": "int",
+                "#text": "33"
+            },
+            "n34": {
+                "@type": "int",
+                "#text": "34"
+            },
+            "n35": {
+                "@type": "int",
+                "#text": "35"
+            },
+            "n36": {
+                "@type": "int",
+                "#text": "36"
+            },
+            "n37": {
+                "@type": "int",
+                "#text": "37"
+            },
+            "n38": {
+                "@type": "int",
+                "#text": "38"
+            },
+            "n39": {
+                "@type": "int",
+                "#text": "39"
+            },
+            "n40": {
+                "@type": "int",
+                "#text": "40"
+            },
+            "n41": {
+                "@type": "int",
+                "#text": "41"
+            },
+            "n42": {
+                "@type": "int",
+                "#text": "42"
+            },
+            "n43": {
+                "@type": "int",
+                "#text": "43"
+            },
+            "n44": {
+                "@type": "int",
+                "#text": "44"
+            },
+            "n45": {
+                "@type": "int",
+                "#text": "45"
+            },
+            "n46": {
+                "@type": "int",
+                "#text": "46"
+            },
+            "n47": {
+                "@type": "int",
+                "#text": "47"
+            },
+            "n48": {
+                "@type": "int",
+                "#text": "48"
+            },
+            "n49": {
+                "@type": "int",
+                "#text": "49"
+            },
+            "n50": {
+                "@type": "int",
+                "#text": "50"
+            },
+            "n51": {
+                "@type": "int",
+                "#text": "51"
+            },
+            "n52": {
+                "@type": "int",
+                "#text": "52"
+            },
+            "n53": {
+                "@type": "int",
+                "#text": "53"
+            },
+            "n54": {
+                "@type": "int",
+                "#text": "54"
+            },
+            "n55": {
+                "@type": "int",
+                "#text": "55"
+            },
+            "n56": {
+                "@type": "int",
+                "#text": "56"
+            },
+            "n57": {
+                "@type": "int",
+                "#text": "57"
+            },
+            "n58": {
+                "@type": "int",
+                "#text": "58"
+            },
+            "n59": {
+                "@type": "int",
+                "#text": "59"
+            },
+            "n60": {
+                "@type": "int",
+                "#text": "60"
+            },
+            "n61": {
+                "@type": "int",
+                "#text": "61"
+            },
+            "n62": {
+                "@type": "int",
+                "#text": "62"
+            },
+            "n63": {
+                "@type": "int",
+                "#text": "63"
+            },
+            "n64": {
+                "@type": "int",
+                "#text": "64"
+            },
+            "n65": {
+                "@type": "int",
+                "#text": "65"
+            },
+            "n66": {
+                "@type": "int",
+                "#text": "66"
+            },
+            "n67": {
+                "@type": "int",
+                "#text": "67"
+            },
+            "n68": {
+                "@type": "int",
+                "#text": "68"
+            },
+            "n69": {
+                "@type": "int",
+                "#text": "69"
+            },
+            "n70": {
+                "@type": "int",
+                "#text": "70"
+            },
+            "n71": {
+                "@type": "int",
+                "#text": "71"
+            },
+            "n72": {
+                "@type": "int",
+                "#text": "72"
+            },
+            "n73": {
+                "@type": "int",
+                "#text": "73"
+            },
+            "n74": {
+                "@type": "int",
+                "#text": "74"
+            },
+            "n75": {
+                "@type": "int",
+                "#text": "75"
+            },
+            "n76": {
+                "@type": "int",
+                "#text": "76"
+            },
+            "n77": {
+                "@type": "int",
+                "#text": "77"
+            },
+            "n78": {
+                "@type": "int",
+                "#text": "78"
+            },
+            "n79": {
+                "@type": "int",
+                "#text": "79"
+            },
+            "n80": {
+                "@type": "int",
+                "#text": "80"
+            },
+            "n81": {
+                "@type": "int",
+                "#text": "81"
+            },
+            "n82": {
+                "@type": "int",
+                "#text": "82"
+            },
+            "n83": {
+                "@type": "int",
+                "#text": "83"
+            },
+            "n84": {
+                "@type": "int",
+                "#text": "84"
+            },
+            "n85": {
+                "@type": "int",
+                "#text": "85"
+            },
+            "n86": {
+                "@type": "int",
+                "#text": "86"
+            },
+            "n87": {
+                "@type": "int",
+                "#text": "87"
+            },
+            "n88": {
+                "@type": "int",
+                "#text": "88"
+            },
+            "n89": {
+                "@type": "int",
+                "#text": "89"
+            },
+            "n90": {
+                "@type": "int",
+                "#text": "90"
+            },
+            "n91": {
+                "@type": "int",
+                "#text": "91"
+            },
+            "n92": {
+                "@type": "int",
+                "#text": "92"
+            },
+            "n93": {
+                "@type": "int",
+                "#text": "93"
+            },
+            "n94": {
+                "@type": "int",
+                "#text": "94"
+            },
+            "n95": {
+                "@type": "int",
+                "#text": "95"
+            },
+            "n96": {
+                "@type": "int",
+                "#text": "96"
+            },
+            "n97": {
+                "@type": "int",
+                "#text": "97"
+            },
+            "n98": {
+                "@type": "int",
+                "#text": "98"
+            },
+            "n99": {
+                "@type": "int",
+                "#text": "99"
+            }
+        },
+        "CurrentLocation": {
+            "@type": "str",
+            "#text": "Pentos is a large port city, more populous than Astapor on Slaver Bay, \n\t\tand may be one of the most populous of the Free Cities. \n\t\tIt lies on the bay of Pentos off the narrow sea, with the Flatlands \n\t\tplains and Velvet Hills to the east.\n\t\tThe city has many square brick towers, controlled by the spice traders. \n\t\tMost of the roofing is done in tiles. There is a large red temple in \n\t\tPentos, along with the manse of Illyrio Mopatis and the Sunrise Gate \n\t\tallows the traveler to exit the city to the east, \n\t\tin the direction of the Rhoyne."
+        }
+    }
+}

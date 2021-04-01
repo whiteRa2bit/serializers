@@ -1,0 +1,12 @@
+{
+    "type": "record", 
+    "name": "UserAdvance", 
+    "fields": [
+        {"name": "PackageID", "type": "long"}, 
+        {"name": "PersonID", "type": "long"}, 
+        {"name": "Name", "type": "string"}, 
+        {"name": "CurrentLocation", "type": "string"}, 
+        {"name": "Inventory", "type": {"type": "map", "values": "long", "name": "Inventory"}}
+    ], 
+    "doc": "User advanced"
+}
