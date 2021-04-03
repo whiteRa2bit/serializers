@@ -1,0 +1,1 @@
+from serializers.protobuf_serializer.serializer import ProtobufSerializer
