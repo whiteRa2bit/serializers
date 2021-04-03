@@ -7,5 +7,4 @@ class YamlSerializer(AbstractSerializer):
         return yaml.dump(raw_data)
 
     def decode(self, serialized_data):
-        x = yaml.load(serialized_data)
-        return x
+        return yaml.load(serialized_data)

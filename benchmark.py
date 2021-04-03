@@ -1,7 +1,7 @@
-import os
-import sys 
-
 import json
+import sys
+import os
+
 from tabulate import tabulate
 
 from config import RAW_DATA, LOOPS, SERIALIZED_DATA_DIR, DESERIALIZED_DATA_DIR
