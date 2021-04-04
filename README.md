@@ -21,6 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Comparison of data serialization formats in Python
 
 
 <!-- GETTING STARTED -->
